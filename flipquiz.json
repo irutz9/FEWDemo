@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "question": "What does HTML stand for?",
+        "answer": "HTML stands for HyperText Markup Language. It is the standard markup language for creating web pages and web applications."
+    },
+    {
+        "id": 2,
+        "question": "What is the purpose of CSS?",
+        "answer": "CSS (Cascading Style Sheets) is used for styling and laying out web pages. It controls the look and feel of HTML elements on a webpage."
+    },
+    {
+        "id": 3,
+        "question": "What is the difference between '=='' and '===' in JavaScript?",
+        "answer": "In JavaScript, '==' compares two values for equality after converting both to a common type. '===' compares both value and type, which is known as 'strict equality'."
+    },
+    {
+        "id": 4,
+        "question": "How can you make a list that lists its items with squares in HTML?",
+        "answer": "In HTML, you can create an unordered list (<ul>) and use CSS to style the list items (<li>) with squares using the 'list-style-type' property set to 'square'."
+    },
+    {
+        "id": 5,
+        "question": "How do you declare a JavaScript variable?",
+        "answer": "In JavaScript, a variable can be declared using 'var', 'let', or 'const'. For example, 'let x = 5;' or 'const y = 10;'."
+    }
+]
